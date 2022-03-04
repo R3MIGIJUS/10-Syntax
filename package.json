@@ -1,0 +1,16 @@
+{
+  "name": "10-syntax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "syntax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server --port=3000"
+  },
+  "keywords": [],
+  "author": "R3migijus",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}

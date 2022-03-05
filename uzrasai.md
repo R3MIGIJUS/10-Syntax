@@ -6,3 +6,6 @@
     - "dev" :"live-server --port=3000" ;
 - terminale parašyti:
     - npm run dev
+
+
+

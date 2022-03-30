@@ -9,7 +9,7 @@ function suma (a,b) {
 
 export {suma}
 
-// =>  galima ir taip papraščiau užrašyti :
+// =>  galima ir taip papraščiau užrašyti, kaip constanta :
 
 const suma = function (a,b) {
     return a+b 
